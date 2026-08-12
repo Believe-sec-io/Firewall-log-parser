@@ -1,4 +1,4 @@
-## Features Log Parser + Reporter
+## Firewall Log Parser + Reporter
 
 A Python-based security tool for parsing firewall logs, analyzing firewall activity, and generating readable security reports.
 
